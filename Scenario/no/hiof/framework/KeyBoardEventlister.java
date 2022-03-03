@@ -2,6 +2,7 @@ package no.hiof.framework;
 
 
 
+
 /**
  *  Make the player move around
  */
