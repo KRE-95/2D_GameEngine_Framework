@@ -1,6 +1,6 @@
 package GameEnivronment;
 
 
-// TASK: find gamefield
+// TASK: find library for input gamefield
 public class GameField {
 }
