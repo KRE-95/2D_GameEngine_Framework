@@ -1,7 +1,18 @@
 package GameEnivronment;
 
+
+
+
 public class Motion {
     private int playerStartPostion;
+    private int playerStopPostion;
+    private GameField coordinates;
+    private int xyPlayerPostion;
+
+
+
+
+
 
     public int getPlayerStartPostion() {
         return playerStartPostion;
@@ -35,11 +46,9 @@ public class Motion {
         this.xyPlayerPostion = xyPlayerPostion;
     }
 
-    private int playerStopPostion;
-    private GameField coordinates;
-    private int xyPlayerPostion;
 
 
+   /* public Movement ()*/
 
     /* Scenario 1- arrow for å gå foran:
             # 2 - Arrow for å gå bak/ned:

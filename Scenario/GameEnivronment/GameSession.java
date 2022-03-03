@@ -1,5 +1,7 @@
 package GameEnivronment;
 
+
+
 public class GameSession {
     private int timeLapse;
     private int amountTraps;
